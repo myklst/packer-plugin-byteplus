@@ -5,7 +5,7 @@ go 1.21.0
 require (
 	github.com/hashicorp/hcl/v2 v2.19.1
 	github.com/hashicorp/packer-plugin-sdk v0.5.4
-	github.com/volcengine/volcengine-go-sdk v1.1.16
+	github.com/volcengine/volcengine-go-sdk v1.1.22
 	github.com/zclconf/go-cty v1.13.3
 )
 
